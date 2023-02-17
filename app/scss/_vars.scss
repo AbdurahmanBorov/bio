@@ -1,0 +1,13 @@
+$default-font: "Nirmala UI Semilight", sans-serif;
+$accent: orange;
+$text: #FFF;
+$black: #000;
+$bggray: radial-gradient(87.14% 90.03% at 45.07% 0%, #FFFFFF 0%, #CCCCCC 66.15%, #B2B3B3 100%);
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1140px);
+
+$gutter: $grid-gutter-width;
